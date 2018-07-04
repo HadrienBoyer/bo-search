@@ -2,6 +2,14 @@
 
 > Test technique Bird Office
 
+> Auteur : Hadrien Boyer <hello@hadrien.co>
+
+> Librairies/Technologies utilisées : SASS, VueJS, Bootstrap-Vue et Vue-Resource.
+
+## À propos:
+
+
+
 ## Installation de la Build
 
 ``` bash
