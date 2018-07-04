@@ -37,9 +37,9 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 └── package.json              # infos sur le package et ses dépendances
 ```
 
-## DOCUMENTATION:
+# DOCUMENTATION:
 
-# Installer et tester le projet
+## Installer et tester le projet
 Chargez le fichier « index.html » et le dossier « /dist/ » et ses fichiers sur votre serveur et lancez « index.html ».
 
 Vous pouvez aussi utiliser ce code et modifier la valeur de l’attribut href en fonction de la localisation de vos fichiers :
@@ -61,6 +61,6 @@ Vous pouvez aussi utiliser ce code et modifier la valeur de l’attribut href en
 
 > NB : vous pouvez changer votre API ID en modifiant la propriété « api_ID » de BoSearch.vue.
 
-# Fonctionnement
+## Fonctionnement
 Tapez vos mots clés dans la barre de recherche et cliquez sur « Rechercher », ou appuyez sur la touche « Entrée » de votre clavier.
 
