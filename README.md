@@ -1,6 +1,6 @@
 # bo-search
 
-> Test technique Bird Office
+> Test technique BO
 
 > Auteur : Hadrien Boyer <hello@hadrien.co>
 
