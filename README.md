@@ -18,7 +18,7 @@ npm run build
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 
-## Structure
+## Structure du projet
 
 ```
 .
@@ -33,7 +33,7 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 └── package.json              # infos sur le package et ses dépendances
 ```
 
-DOCUMENTATION:
+## DOCUMENTATION:
 
 # Installation
 Chargez le fichier « index.html » et le dossier « /dist/ » sur votre serveur et lancez « index.html ».
