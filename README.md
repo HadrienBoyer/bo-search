@@ -20,6 +20,7 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 
 ## Structure
 
+```
 .
 ├── dist/                     # fichiers packagés
 ├── src/
@@ -30,7 +31,7 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 ├── README.md                 # fichier README
 ├── webpack.config.js         # fichier de configuration de webpack
 └── package.json              # infos sur le package et ses dépendances
-
+```
 
 DOCUMENTATION:
 
@@ -39,6 +40,7 @@ Chargez le fichier « index.html » et le dossier « /dist/ » sur votre se
 
 Vous pouvez aussi utiliser ce code et modifier la valeur de l’attribut href en fonction de la localisation de vos fichiers :
 
+```
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -51,6 +53,7 @@ Vous pouvez aussi utiliser ce code et modifier la valeur de l’attribut href en
     <script src="./dist/build.js"></script>
   </body>
 </html>
+```
 
 NB : vous pouvez changer votre API ID via le paramètre « api_ID ».
 
