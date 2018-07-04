@@ -55,7 +55,7 @@ Vous pouvez aussi utiliser ce code et modifier la valeur de l’attribut href en
 </html>
 ```
 
-NB : vous pouvez changer votre API ID via le paramètre « api_ID ».
+> NB : vous pouvez changer votre API ID via la propriété « api_ID ».
 
 # Fonctionnement
 Tapez vos mots clés dans la barre de recherche et cliquez sur « Rechercher », ou appuyez sur la touche « Entrée » de votre clavier.
