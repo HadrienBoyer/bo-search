@@ -6,10 +6,6 @@
 
 > Librairies/Technologies utilisées : SASS, VueJS, Bootstrap-Vue et Vue-Resource.
 
-## À propos:
-
-
-
 ## Installation de la Build
 
 ``` bash
