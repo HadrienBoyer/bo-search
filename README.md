@@ -2,7 +2,7 @@
 
 > Test technique Bird Office
 
-## Build Setup
+## Installation de la Build
 
 ``` bash
 # install dependencies
@@ -35,7 +35,7 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 
 ## DOCUMENTATION:
 
-# Installation
+# Installer et tester le projet
 Chargez le fichier « index.html » et le dossier « /dist/ » et ses fichiers sur votre serveur et lancez « index.html ».
 
 Vous pouvez aussi utiliser ce code et modifier la valeur de l’attribut href en fonction de la localisation de vos fichiers :
